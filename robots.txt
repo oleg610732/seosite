@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://seosite.by/sitemap-index.xml
